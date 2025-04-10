@@ -1,0 +1,17 @@
+{
+    "name": "mern-db-layer",
+    "version": "1.0.0",
+    "description": "Reusable MongoDB models for MERN stack apps",
+    "main": "index.js",
+    "author": "Siddharth Dineshbhai Makwana",
+    "license": "MIT",
+    "dependencies": {
+      "mongoose": "^7.0.0"
+    },
+    "keywords": ["mern", "mongoose", "database", "models", "todo", "user"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/sidmakwana11/mern-db-layer.git"
+    }
+  }
+  
